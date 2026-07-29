@@ -27,11 +27,53 @@
 `Mobility` `Aerospace` `Defense` `Autonomous Systems`  
 `Simulation` `Sim2Real` `Control` `SIL/SILS` `HIL/HILS` `V&V`
 
-## Tech Stack
+## Technical Skills
 
 | Area | Technologies |
 | --- | --- |
-| Autopilot & Hardware | PX4, Pixhawk |
-| Tools & Software | MATLAB/Simulink, ROS, Gazebo, MAVLink, QGroundControl |
-| Environment & Programming | Ubuntu, Linux, C/C++, Python |
-| Collaboration Platform | Git, Microsoft Teams |
+| Languages | C++ · Python |
+| Engineering Platforms & Tools | PX4 · Pixhawk · MATLAB/Simulink · ROS · Gazebo · MAVLink · QGroundControl · Git |
+| Development Environment | Ubuntu/Linux Github |
+
+## Technical Skills
+
+<table>
+  <tr>
+    <td width="190"><b>Languages</b></td>
+    <td>
+      <img src="./assets/icons/cpp.svg" width="40" alt="C++" title="C++">
+      &nbsp;
+      <img src="./assets/icons/python.svg" width="40" alt="Python" title="Python">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Engineering Platforms & Tools</b></td>
+    <td>
+      <img src="./assets/icons/px4.svg" width="40" alt="PX4" title="PX4">
+      &nbsp;
+      <img src="./assets/icons/pixhawk.svg" width="40" alt="Pixhawk" title="Pixhawk">
+      &nbsp;
+      <img src="./assets/icons/matlab.svg" width="40" alt="MATLAB" title="MATLAB">
+      &nbsp;
+      <img src="./assets/icons/simulink.svg" width="40" alt="Simulink" title="Simulink">
+      &nbsp;
+      <img src="./assets/icons/ros.svg" width="40" alt="ROS" title="ROS">
+      &nbsp;
+      <img src="./assets/icons/gazebo.svg" width="40" alt="Gazebo" title="Gazebo">
+      &nbsp;
+      <img src="./assets/icons/mavlink.svg" width="40" alt="MAVLink" title="MAVLink">
+      &nbsp;
+      <img src="./assets/icons/qgroundcontrol.svg" width="40" alt="QGroundControl" title="QGroundControl">
+      &nbsp;
+      <img src="./assets/icons/git.svg" width="40" alt="Git" title="Git">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Development Environment</b></td>
+    <td>
+      <img src="./assets/icons/ubuntu.svg" width="40" alt="Ubuntu" title="Ubuntu">
+      &nbsp;
+      <img src="./assets/icons/linux.svg" width="40" alt="Linux" title="Linux">
+    </td>
+  </tr>
+</table>
