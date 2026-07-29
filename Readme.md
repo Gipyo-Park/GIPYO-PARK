@@ -41,7 +41,7 @@
 | :---: | :---: | :---: | :---: |
 | <img src="./assets/icons/px4.svg" width="52" height="52" alt="PX4"> | <img src="./assets/icons/pixhawk.svg" width="52" height="52" alt="Pixhawk"> | <img src="./assets/icons/simulink.svg" width="52" height="52" alt="MATLAB and Simulink"> | <img src="https://skillicons.dev/icons?i=ros" width="46" alt="ROS"> |
 
-| Gazebo | MAVLink | QGroundControl | Git |
+| Gazebo | MAVLink | QGroundControl | Github |
 | :---: | :---: | :---: | :---: |
 | <img src="./assets/icons/gazebo.svg" width="52" height="52" alt="Gazebo"> | <img src="./assets/icons/mavlink.svg" width="52" height="52" alt="MAVLink"> | <img src="./assets/icons/qgroundcontrol.svg" width="52" height="52" alt="QGroundControl"> | <img src="https://skillicons.dev/icons?i=github" width="46" alt="Github"> |
 
