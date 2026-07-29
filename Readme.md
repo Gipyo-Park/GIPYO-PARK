@@ -33,20 +33,20 @@
 
 | C++ | Python |
 | :---: | :---: |
-| 아이콘 | 아이콘 |
+| <img src="https://skillicons.dev/icons?i=cpp" width="46" alt="C++"> | <img src="https://skillicons.dev/icons?i=py" width="46" alt="Python"> |
 
 ### Engineering Platforms & Tools
 
-| PX4 | Pixhawk | MATLAB/Simulink | ROS | Gazebo |
-| :---: | :---: | :---: | :---: | :---: |
-| 아이콘 | 아이콘 | 아이콘 | 아이콘 | 아이콘 |
+| PX4 | Pixhawk | MATLAB / Simulink | ROS |
+| :---: | :---: | :---: | :---: |
+| <img src="./assets/icons/px4.svg" width="52" height="52" alt="PX4"> | <img src="./assets/icons/pixhawk.svg" width="52" height="52" alt="Pixhawk"> | <img src="./assets/icons/simulink.svg" width="52" height="52" alt="MATLAB and Simulink"> | <img src="https://skillicons.dev/icons?i=ros" width="46" alt="ROS"> |
 
-| MAVLink | QGroundControl | Git |
-| :---: | :---: | :---: |
-| 아이콘 | 아이콘 | 아이콘 |
+| Gazebo | MAVLink | QGroundControl | Git |
+| :---: | :---: | :---: | :---: |
+| <img src="./assets/icons/gazebo.svg" width="52" height="52" alt="Gazebo"> | <img src="./assets/icons/mavlink.svg" width="52" height="52" alt="MAVLink"> | <img src="./assets/icons/qgroundcontrol.svg" width="52" height="52" alt="QGroundControl"> | <img src="https://skillicons.dev/icons?i=git" width="46" alt="Git"> |
 
 ### Development Environment
 
 | Ubuntu | Linux |
 | :---: | :---: |
-| 아이콘 | 아이콘 |
+| <img src="https://skillicons.dev/icons?i=ubuntu" width="46" alt="Ubuntu"> | <img src="https://skillicons.dev/icons?i=linux" width="46" alt="Linux"> |
