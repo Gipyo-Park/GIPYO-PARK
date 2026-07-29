@@ -43,7 +43,7 @@
 
 | Gazebo | MAVLink | QGroundControl | Github |
 | :---: | :---: | :---: | :---: |
-| <img src="./assets/icons/gazebo.svg" width="52" height="52" alt="Gazebo"> | <img src="./assets/icons/MAVLink.svg" width="52" height="52" alt="MAVLink"> | <img src="./assets/icons/qgroundcontrol.svg" width="52" height="52" alt="QGroundControl"> | <img src="https://skillicons.dev/icons?i=github" width="46" alt="Github"> |
+| <img src="./assets/icons/gazebo.svg" width="52" height="52" alt="gazebo"> | <img src="./assets/icons/MAVLink.svg" width="52" height="52" alt="MAVLink"> | <img src="./assets/icons/qgroundcontrol.svg" width="52" height="52" alt="QGroundControl"> | <img src="https://skillicons.dev/icons?i=github" width="46" alt="Github"> |
 
 ### Development Environment
 
