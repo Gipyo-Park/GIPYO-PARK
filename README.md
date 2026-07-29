@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Rsebaschan/Rsebaschan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# GIPYO PARK
 
-Here are some ideas to get you started:
+**Mobility · Aerospace · Defense · Simulation & Verification**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+현실에 적용하기 전, 가상 환경에서 검증하는 엔지니어를 지향합니다.  
+I build and validate control systems through simulation-driven engineering.
+
+</div>
+
+---
+
+## About Me
+
+모빌리티·항공·방산 분야의 **제어 시스템, 시뮬레이션, 가상 환경 검증**에 관심이 있습니다.
+
+특히 모델과 시뮬레이션에서 얻은 결과를 실제 시스템으로 연결하는 **Sim2Real**,  
+그리고 **SIL/HIL(SILS/HILS) 기반 성능 평가와 검증 자동화**를 탐구하고 있습니다.
+
+- Control system development and verification
+- Simulation-based testing and virtual validation
+- Software-in-the-Loop Simulation (SIL/SILS)
+- Hardware-in-the-Loop Simulation (HIL/HILS)
+- Sim2Real transfer and performance evaluation
+- Reproducible engineering workflows
+
+## Engineering Interests
+
+`Mobility` `Aerospace` `Defense` `Autonomous Systems`  
+`Simulation` `Sim2Real` `Control` `SIL/SILS` `HIL/HILS` `V&V`
+
+## Tech Stack
+
+| Area | Technologies |
+| --- | --- |
+| Autopilot & Hardware | PX4, Pixhawk |
+| Robotics & Simulation | ROS, Gazebo |
+| Control & Model-Based Design | MATLAB, Simulink |
+| Programming | C++, Python |
+| Communication & Ground Control | MAVLink, QGroundControl |
+| Environment & Tools | Ubuntu, Linux, Git |
