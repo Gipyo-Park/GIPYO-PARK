@@ -4,9 +4,6 @@
 
 **Mobility · Aerospace · Defense · Simulation & Verification**
 
-현실에 적용하기 전, 가상 환경에서 검증하는 엔지니어를 지향합니다.  
-I build and validate control systems through simulation-driven engineering.
-
 </div>
 
 ---
