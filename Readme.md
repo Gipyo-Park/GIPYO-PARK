@@ -37,9 +37,9 @@
 
 ### Engineering Platforms & Tools
 
-| PX4 | Pixhawk | MATLAB / Simulink | ROS |
-| :---: | :---: | :---: | :---: |
-| <img src="./assets/icons/PX4.svg" width="52" height="52" alt="PX4"> | <img src="./assets/icons/pixhawk.svg" width="52" height="52" alt="Pixhawk"> | <img src="./assets/icons/Simulink.svg" width="52" height="52" alt="MATLAB and Simulink"> | <img src="https://skillicons.dev/icons?i=ros" width="46" alt="ROS"> |
+| PX4 | MATLAB / Simulink | ROS |
+| :---: | :---: | :---: |
+| <img src="./assets/icons/PX4.svg" width="52" height="52" alt="PX4"> | <img src="./assets/icons/Simulink.svg" width="52" height="52" alt="MATLAB and Simulink"> | <img src="https://skillicons.dev/icons?i=ros" width="46" alt="ROS"> |
 
 | Gazebo | MAVLink | QGroundControl | Github |
 | :---: | :---: | :---: | :---: |
