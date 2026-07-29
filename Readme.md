@@ -22,7 +22,7 @@
 - Sim2Real transfer and performance evaluation
 - Reproducible engineering workflows
 
-## Engineering Interests
+## Interests
 
 `Mobility` `Aerospace` `Defense` `Autonomous Systems`  
 `Simulation` `Sim2Real` `Control` `SIL/SILS` `HIL/HILS` `V&V`
