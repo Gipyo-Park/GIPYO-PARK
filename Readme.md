@@ -39,7 +39,7 @@
 
 | PX4 | MATLAB / Simulink | ROS |
 | :---: | :---: | :---: |
-| <img src="./assets/icons/PX4.svg" width="52" height="52" alt="PX4"> | <img src="./assets/icons/Simulink.svg" width="52" height="52" alt="MATLAB and Simulink"> | <img src="https://skillicons.dev/icons?i=ros" width="46" alt="ROS"> |
+| <img src="./assets/icons/PX4.svg" width="52" height="52" alt="PX4"> | <img src="./assets/icons/MATLAB.svg" width="52" height="52" alt="MATLAB and Simulink"> <img src="./assets/icons/Simulink.svg" width="52" height="52" alt="MATLAB and Simulink"> | <img src="https://skillicons.dev/icons?i=ros" width="46" alt="ROS"> |
 
 | Gazebo | MAVLink | QGroundControl | Github |
 | :---: | :---: | :---: | :---: |
