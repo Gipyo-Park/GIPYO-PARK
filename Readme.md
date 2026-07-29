@@ -29,14 +29,6 @@
 
 ## Technical Skills
 
-| Area | Technologies |
-| --- | --- |
-| Languages | C++ · Python |
-| Engineering Platforms & Tools | PX4 · Pixhawk · MATLAB/Simulink · ROS · Gazebo · MAVLink · QGroundControl · Git |
-| Development Environment | Ubuntu/Linux Github |
-
-## Technical Skills
-
 ### Languages
 
 | C++ | Python |
