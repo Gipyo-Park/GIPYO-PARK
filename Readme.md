@@ -1,6 +1,6 @@
 <div align="center">
 
-# GIPYO PARK
+# 👋 GIPYO PARK 👋
 
 **Mobility · Aerospace · Defense · Simulation & Verification**
 
@@ -32,8 +32,6 @@
 | Area | Technologies |
 | --- | --- |
 | Autopilot & Hardware | PX4, Pixhawk |
-| Robotics & Simulation | ROS, Gazebo |
-| Control & Model-Based Design | MATLAB, Simulink |
-| Programming | C++, Python |
-| Communication & Ground Control | MAVLink, QGroundControl |
-| Environment & Tools | Ubuntu, Linux, Git |
+| Tools & Software | MATLAB/Simulink, ROS, Gazebo, MAVLink, QGroundControl |
+| Environment & Programming | Ubuntu, Linux, C/C++, Python |
+| Collaboration Platform | Git, Microsoft Teams |
