@@ -2,7 +2,7 @@
 
 # 👋 GIPYO PARK 👋
 
-**Mobility · Aerospace · Defense · Simulation & Verification**
+**Mobility · Aerospace · Robotics · Defense · Simulation & Verification**
 
 </div>
 
@@ -24,7 +24,7 @@
 
 ## Interests
 
-`Mobility` `Aerospace` `Defense` `Autonomous Systems`  
+`Mobility` `Aerospace` `Robotics` `Defense` `Autonomous Systems`  
 `Simulation` `Sim2Real` `Control` `SIL/SILS` `HIL/HILS` `V&V`
 
 ## Technical Skills
